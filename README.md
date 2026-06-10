@@ -27,7 +27,7 @@ Built as part of the AI Skills Acceleration Programme (ASA_6) — CPT Week 6.
 5. Copy, download or refine the result
 
 ## Live App
-[Click here to open the app](https://insightiq-buddy.lovable.app)
+[Click here to open the app](insightiq-buddy.lovable.app)
 
 ## Responsible AI Notice
 All AI-generated outputs are suggestions only. Users should review, 
